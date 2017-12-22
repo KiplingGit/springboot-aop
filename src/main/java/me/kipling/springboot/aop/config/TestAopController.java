@@ -19,7 +19,7 @@ import com.google.common.collect.Maps;
 
 @Component
 @Aspect
-public class WebControllerAop {
+public class TestAopController {
 
 	/*
 	 * 定义切点
